@@ -1,0 +1,23 @@
+{
+  "name": "rfs_fb",
+  "version": "0.0.1",
+  "description": "this computes a fizz buzz sequence. They are really advanced. ",
+  "main": "src/fizz_buzz.js",
+  "scripts": {
+    "test": "jasmine-node spec/fizz_buzz_spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanfs/NYU-MEAN-4.git"
+  },
+  "keywords": [
+    "fizz",
+    "buzz"
+  ],
+  "author": "Ryan F. Salerno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanfs/NYU-MEAN-4/issues"
+  },
+  "homepage": "https://github.com/ryanfs/NYU-MEAN-4"
+}
